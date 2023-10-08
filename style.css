@@ -24,14 +24,14 @@ body {
 }
 
 .panel {
-    color: black;
-    background-color: #f8ceee;
+    color: rgb(232, 138, 154);
+    background-color: #9bd85b;
     padding: 20px;
     border-radius: 20px;
 }
 
 .Data-Diri {
-    border-color: black;
+    border-color: rgb(232, 138, 154);
     border-collapse: collapse;   
 }
 
