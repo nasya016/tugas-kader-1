@@ -7,29 +7,31 @@ body {
     flex-direction: column;
     align-items: center;
     text-align: center;
+    padding: 20px;
 }
 
 .judul {
-    color: rgb(14, 4, 100);
+    color: rgb(5, 7, 100);
 }
 
-.gambar {
-    border-radius: 20px;
+.pas-poto-nasya {
+    width: 200px;
+    border-radius: 10px;
 }
 
-.deskripsi {
+.profil-pribadi {
     font-size: 20px;
 }
 
 .panel {
-    color: gray;
-    background-color: aliceblue;
+    color: black;
+    background-color: #f8ceee;
     padding: 20px;
     border-radius: 20px;
 }
 
-.tabel-biodata {
-    border-color: gray;
+.Data-Diri {
+    border-color: black;
     border-collapse: collapse;   
 }
 
@@ -38,7 +40,7 @@ td {
 }
 
 h2 {
-    color: blueviolet;
+    color: rgb(241, 98, 218);
 }
 
 ol {
@@ -47,7 +49,7 @@ ol {
 }
 
 a {
-    color: blueviolet;
+    color: rgb(241, 98, 218);
     text-decoration: none;
 }
 
